@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: faster with all the files
+
+sort2 uses: merge sort
+
+How do you know?: faster with sorted files
+
+sort3 uses: selection sort
+
+How do you know?: slower in general
