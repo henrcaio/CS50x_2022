@@ -64,4 +64,4 @@ I know it's cliché but drop a star:star: if you don't mind! (it would be of GRE
 
 ### DISCLAIMER:
 
-[**Academic Honesty**](https://cs50.harvard.edu/x/2020/honesty/) policy of the course.
+[**Academic Honesty**](https://cs50.harvard.edu/x/2022/honesty/) policy of the course.
