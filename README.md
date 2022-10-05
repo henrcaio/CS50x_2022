@@ -43,14 +43,14 @@ I know it's cliché but drop a star:star: if you don't mind! (it would be of GRE
 
 - [Week 5: Data Structures](/5-DataStructures) - <a href='https://cs50.harvard.edu/x/2022/psets/5/'> Pset Instructions </a>
   * [Lab 5: Inheritance:family_man_woman_girl_boy:](/5-DataStructures/LAB-inheritance) - <a href='https://cs50.harvard.edu/x/2022/labs/5/'> Lab Instructions </a>
-  * [speller:pencil2:](/Week5-DataStructures/speller)
+  * [speller:pencil2:](/5-DataStructures/speller)
 
 - [Week 6: Python](/6-Python) - <a href='https://cs50.harvard.edu/x/2022/psets/6/'> Pset Instructions </a>
   * [Lab 6: World Cup:soccer:](/6-Python/LAB-worldCup) - <a href='https://cs50.harvard.edu/x/2022/labs/6/'> Lab Instructions </a>
   * [hello:wave:](/6-Python/sentimental-hello)
   * mario:bricks:
-    + [less](/6-Python/sentimental-mario/less)
-    + [more](/6-Python/sentimental-mario/more)
+    + [less](/6-Python/sentimental-mario-less/)
+    + [more](/6-Python/sentimental-mario-more)
   * [cash:moneybag:](/6-Python/sentimental-cash)
   * [credit:credit_card:](/6-Python/sentimental-credit)
   * [readability:books:](/6-Python/sentimental-readability)
