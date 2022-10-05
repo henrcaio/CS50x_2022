@@ -17,8 +17,8 @@ I know it's cliché but drop a star:star: if you don't mind! (it would be of GRE
 - [Week 1: C](/1-C/) - <a href='https://cs50.harvard.edu/x/2022/psets/1/'> Pset Instructions </a>
   * hello:wave:
   * mario:bricks:
-    + [less](/1-C/mario/less)
-    + [more](/1-C/mario/more)
+    + [less](/1-C/mario/mario-less)
+    + [more](/1-C/mario/mario-more/)
   * [cash:moneybag:](/1-C/cash)
   * [credit:credit_card:](/1-C/credit)
 
@@ -46,7 +46,7 @@ I know it's cliché but drop a star:star: if you don't mind! (it would be of GRE
   * [speller:pencil2:](/Week5-DataStructures/speller)
 
 - [Week 6: Python](/6-Python) - <a href='https://cs50.harvard.edu/x/2022/psets/6/'> Pset Instructions </a>
-  * [Lab 6: World Cup:soccer:](/6-Python/LAB-WorldCup) - <a href='https://cs50.harvard.edu/x/2022/labs/6/'> Lab Instructions </a>
+  * [Lab 6: World Cup:soccer:](/6-Python/LAB-worldCup) - <a href='https://cs50.harvard.edu/x/2022/labs/6/'> Lab Instructions </a>
   * [hello:wave:](/6-Python/sentimental-hello)
   * mario:bricks:
     + [less](/6-Python/sentimental-mario/less)
