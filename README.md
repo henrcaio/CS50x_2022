@@ -14,7 +14,7 @@ I know it's cliché but drop a star:star: if you don't mind! (it would be of GRE
 - [Week 0: Scratch:video_game:](/Scratch) - <a href='https://cs50.harvard.edu/x/2022/psets/0/scratch/'> Pset Instructions </a>
   * <a href='https://scratch.mit.edu/projects/717016087/'> F1 Game </a> (if you feel like playing it!)
 
-- [Week 1: C](/Week1-C/) - <a href='https://cs50.harvard.edu/x/2022/psets/1/'> Pset Instructions </a>
+- [Week 1: C](/Week_1_-_C/) - <a href='https://cs50.harvard.edu/x/2022/psets/1/'> Pset Instructions </a>
   * [hello:wave:](Week1-C/hello/)
   * mario:bricks:
     + [less](Week1-C/mario/less)
