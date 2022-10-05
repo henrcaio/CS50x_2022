@@ -23,7 +23,7 @@ I know it's cliché but drop a star:star: if you don't mind! (it would be of GRE
   * [credit:credit_card:](/1-C/credit)
 
 - [Week 2: Arrays](/2-Arrays/) - <a href='https://cs50.harvard.edu/x/2022/psets/2/'> Pset Instructions </a> 
-  * [Lab 2: scrabble](/2-Arrays/LAB-scrabble) - <a href='https://cs50.harvard.edu/x/2022/labs/2/'> Lab Instructions </a>
+  * [Lab 2: scrabble:capital_abcd:](/2-Arrays/LAB-scrabble) - <a href='https://cs50.harvard.edu/x/2022/labs/2/'> Lab Instructions </a>
   * [readability:books:](/2-Arrays/readability)
   * [caesar:lock:](/2-Arrays/caesar)
   * [substitution:arrows_counterclockwise:](/2-Arrays/substitution)
@@ -37,7 +37,7 @@ I know it's cliché but drop a star:star: if you don't mind! (it would be of GRE
 - [Week 4: Memory](/4-Memory) - <a href='https://cs50.harvard.edu/x/2022/psets/4/'> Pset Instructions </a> 
   * [Lab 4: Volume:radio:](/4-Memory/LAB-volume) - <a href='https://cs50.harvard.edu/x/2022/labs/4/'> Lab Instructions </a>
   * filter:camera_flash:
-    + [less](/4-Memory/filter)
+    + [less](/4-Memory/filter-less/)
     + more
   * [recover:floppy_disk:](/4-Memory/recover)
 
