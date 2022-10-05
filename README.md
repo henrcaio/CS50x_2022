@@ -7,7 +7,7 @@ Harvard's CS50x 2022 - Labs and Psets
 ###### I'll be pleased to answer any questions you may have, so if you do have one <i>hit me up!</i>
 
 <br>
-I know it's cliché but drop a star:star: if you don't mind! (would be of GREAT help!)
+I know it's cliché but drop a star:star: if you don't mind! (it would be of GREAT help!)
 
 ## Table Of Contents
 
