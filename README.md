@@ -14,13 +14,13 @@ I know it's cliché but drop a star:star: if you don't mind! (it would be of GRE
 - [Week 0: Scratch:video_game:](/Scratch) - <a href='https://cs50.harvard.edu/x/2022/psets/0/scratch/'> Pset Instructions </a>
   * <a href='https://scratch.mit.edu/projects/717016087/'> F1 Game </a> (if you feel like playing it!)
 
-- [Week 1: C](/Week_1_-_C/) - <a href='https://cs50.harvard.edu/x/2022/psets/1/'> Pset Instructions </a>
-  * [hello:wave:](Week1-C/hello/)
+- [Week 1: C](/C/) - <a href='https://cs50.harvard.edu/x/2022/psets/1/'> Pset Instructions </a>
+  * hello:wave:
   * mario:bricks:
-    + [less](Week1-C/mario/less)
-    + [more](Week1-C/mario/more)
-  * [cash:moneybag:](/Week1-C/cash)
-  * [credit:credit_card:](/Week1-C/credit)
+    + [less](/C/mario/less)
+    + [more](/C/mario/more)
+  * [cash:moneybag:](/C/cash)
+  * [credit:credit_card:](/C/credit)
 
 - [Week 2: Arrays](/Week2-Arrays/) - <a href='https://cs50.harvard.edu/x/2022/psets/2/'> Pset Instructions </a> 
   * [Lab 2: scrabble](/Week2-Arrays/LAB-scrabble) - <a href='https://cs50.harvard.edu/x/2022/labs/2/'> Lab Instructions </a>
