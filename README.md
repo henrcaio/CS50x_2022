@@ -57,7 +57,7 @@ I know it's cliché but drop a star:star: if you don't mind! (it would be of GRE
   * [dna:dna:](/6-Python/dna)
   
 - [Week 7: SQL](7-SQL) - <a href='https://cs50.harvard.edu/x/2022/psets/7/'> Pset Instructions </a>
-  * [Lab 7: songs:notes:](/7-SQL/movies/LAB-songs) - <a href='https://cs50.harvard.edu/x/2022/labs/7/'> Lab Instructions </a>
+  * [Lab 7: songs:notes:](/7-SQL/LAB-songs) - <a href='https://cs50.harvard.edu/x/2022/labs/7/'> Lab Instructions </a>
   * [movies	:film_strip:](/7-SQL/movies)
   * [fiftyville:detective:](/7-SQL/fiftyville)
 
