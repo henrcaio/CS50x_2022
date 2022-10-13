@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+
+                let correct = document.querySelector('.correct');
+                let incorrect = document.querySelectorAll('.incorrect');
+
+                correct.addEventListener('click', function(){
+                    correct.style.backgroundColor = 'green';
+                    answer.innerHTML = 'Correct!';
+                });
+
+                for (let i = 0; i < incorrect.length; i++)
+                {
+                    incorrect[i].addEventListener('click', function(){
+                    incorrect[i].style.backgroundColor = 'red';
+                    answer.innerHTML = 'Incorrect!';
+                    })
+                }
+
+                document.querySelector('#check').addEventListener('click', function()
+                {
+                    let input = document.querySelector('input');
+                    if (input.value.toLowerCase() === 'muriel')
+                    {
+                        input.style.backgroundColor = 'green';
+                        answer2.innerHTML = 'Correct!';
+                    }
+                    else
+                    {
+                        input.style.backgroundColor = 'red';
+                        answer2.innerHTML = 'Incorrect!';
+                    }
+                });
+
+            });
+
+        </script>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <h3>In FRIENDS, the TV Guide is delivered under the name of:</h3>
+
+                <button class="incorrect">Mr. Chandler M. Bing</button>
+                <button class="incorrect">Chander Bingaling</button>
+                <button class="incorrect">Mrs. Chandler Bing</button>
+                <button class="correct">Mrs. Chanandler Bong</button>
+                <button class="incorrect">Mr. Chan Bing</button>
+                <h3 id="answer"></h3>
+
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+
+                <h3>In FRIENDS, What's Chandler's middle name?</h3>
+                <input type="text"></input>
+                <button id="check">Check!</button>
+                <h3 id="answer2"></h3>
+
+            </div>
+        </div>
+    </body>
+</html>
