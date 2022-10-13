@@ -61,7 +61,8 @@ I know it's cliché but drop a star:star: if you don't mind! (it would be of GRE
   * [movies	:film_strip:](/7-SQL/movies)
   * [fiftyville:detective:](/7-SQL/fiftyville)
 
-- [Week 8: HTML/CSS/Javascript](8-HTML/CSS/Javascript) - <a href='https://cs50.harvard.edu/x/2022/psets/8/'> Pset Instructions </a>
+- [Week 8: HTML/CSS/Javascript](8-HTML-CSS-Javascript/) - <a href='https://cs50.harvard.edu/x/2022/psets/8/'> Pset Instructions </a>
+  * [Lab 8: trivia](/8-HTML/CSS/Javascript/trivia)
   * Working on it! :zany_face:
 
 <br>
