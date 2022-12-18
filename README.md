@@ -63,6 +63,10 @@ I know it's cliché but drop a star:star: if you don't mind! (it would be of GRE
 
 - [Week 8: HTML/CSS/Javascript](8-HTML-CSS-Javascript/) - <a href='https://cs50.harvard.edu/x/2022/psets/8/'> Pset Instructions </a>
   * [Lab 8: trivia](/8-HTML-CSS-Javascript/LAB-trivia)
+  * [homepage	:house_with_garden:](/8-HTML-CSS-Javascript/homepage)
+  
+- [Week 9: Flask](9-Flask/) - <a href='https://cs50.harvard.edu/x/2022/psets/9/'> Pset Instructions </a>
+  * [Lab 9: birthdays](/9-Flask/birthdays)
   * Working on it! :zany_face:
 
 <br>
