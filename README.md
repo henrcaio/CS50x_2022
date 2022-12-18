@@ -15,7 +15,7 @@ I know it's cliché but drop a star:star: if you don't mind! (it would be of GRE
   * <a href='https://scratch.mit.edu/projects/717016087/'> F1 Game </a> (if you feel like playing it!)
 
 - [Week 1: C](/1-C/) - <a href='https://cs50.harvard.edu/x/2022/psets/1/'> Pset Instructions </a>
-  * [hello :wave:](/1-C/hello)
+  * [Hello :wave:](/1-C/hello)
   * mario :bricks:
     + [less](/1-C/mario/mario-less)
     + [more](/1-C/mario/mario-more/)
@@ -23,7 +23,7 @@ I know it's cliché but drop a star:star: if you don't mind! (it would be of GRE
   * [credit :credit_card:](/1-C/credit)
 
 - [Week 2: Arrays](/2-Arrays/) - <a href='https://cs50.harvard.edu/x/2022/psets/2/'> Pset Instructions </a> 
-  * [Lab 2: scrabble :capital_abcd:](/2-Arrays/LAB-scrabble) - <a href='https://cs50.harvard.edu/x/2022/labs/2/'> Lab Instructions </a>
+  * [Lab 2: Scrabble :capital_abcd:](/2-Arrays/LAB-scrabble) - <a href='https://cs50.harvard.edu/x/2022/labs/2/'> Lab Instructions </a>
   * [readability :books:](/2-Arrays/readability)
   * [caesar :lock:](/2-Arrays/caesar)
   * [substitution :arrows_counterclockwise:](/2-Arrays/substitution)
@@ -57,16 +57,16 @@ I know it's cliché but drop a star:star: if you don't mind! (it would be of GRE
   * [dna :dna:](/6-Python/dna)
   
 - [Week 7: SQL](7-SQL) - <a href='https://cs50.harvard.edu/x/2022/psets/7/'> Pset Instructions </a>
-  * [Lab 7: songs :notes:](/7-SQL/LAB-songs) - <a href='https://cs50.harvard.edu/x/2022/labs/7/'> Lab Instructions </a>
+  * [Lab 7: Songs :notes:](/7-SQL/LAB-songs) - <a href='https://cs50.harvard.edu/x/2022/labs/7/'> Lab Instructions </a>
   * [movies	:film_strip:](/7-SQL/movies)
   * [fiftyville :detective:](/7-SQL/fiftyville)
 
 - [Week 8: HTML/CSS/Javascript](8-HTML-CSS-Javascript/) - <a href='https://cs50.harvard.edu/x/2022/psets/8/'> Pset Instructions </a>
-  * [Lab 8: trivia :newspaper:](/8-HTML-CSS-Javascript/LAB-trivia)
+  * [Lab 8: Trivia :newspaper:](/8-HTML-CSS-Javascript/LAB-trivia)
   * [homepage	:house_with_garden:](/8-HTML-CSS-Javascript/homepage)
   
 - [Week 9: Flask](9-Flask/) - <a href='https://cs50.harvard.edu/x/2022/psets/9/'> Pset Instructions </a>
-  * [Lab 9: birthdays :cake:](/9-Flask/birthdays)
+  * [Lab 9: Birthdays :cake:](/9-Flask/birthdays)
   * Working on it! :zany_face:
 
 <br>
