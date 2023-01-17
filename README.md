@@ -9,6 +9,8 @@ Harvard's CS50x 2022 - Labs and Psets
 <br>
 I know it's cliché but drop a star:star: if you don't mind! (it would be of GREAT help!)
 
+...and if you're felling generous, <a href="https://www.buymeacoffee.com/henrcaio">buy me a coffee!:coffee:</a>
+
 ## Table Of Contents
 
 - [Week 0: Scratch :video_game:](/0-Scratch) - <a href='https://cs50.harvard.edu/x/2022/psets/0/scratch/'> Pset Instructions </a>
